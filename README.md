@@ -1,4 +1,4 @@
-# ✈️ AI Travel Agent
+# AI Travel Agent
 
 **Smart trip planning with an orchestrated team of AI skills, built for [OpenCode](https://opencode.ai).**
 
